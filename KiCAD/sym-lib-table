@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MC14536B)(type Legacy)(uri ${KIPRJMOD}/MC14536B.lib)(options "")(descr ""))
+  (lib (name PUSH_SW)(type Legacy)(uri ${KIPRJMOD}/PUSH_SW.lib)(options "")(descr ""))
+)

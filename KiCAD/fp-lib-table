@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PUSH_SW)(type KiCad)(uri ${KIPRJMOD}/PUSH_SW.pretty)(options "")(descr ""))
+  (lib (name KiCAD)(type KiCad)(uri ${KIPRJMOD}/PUSH_SW.pretty/KiCAD.pretty)(options "")(descr ""))
+)

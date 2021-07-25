@@ -1,0 +1,61 @@
+Reference, Value, Footprint, Datasheet
+C1,100p,Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm,~
+C2,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C3,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C4,100p,Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm,~
+C5,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C6,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C7,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C8,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C9,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C10,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C11,620p,Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm,~
+C12,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C13,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C14,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C15,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C16,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C17,10u,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,~
+C18,0.1u,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C19,10u,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,~
+D1,LED_ALT,LED_THT:LED_D3.0mm,~
+J1,PIA Con,Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Horizontal,~
+J2,SBC68 BUS,Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Horizontal,~
+J3,SERIAL COn,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal,~
+J4,Barrel_Jack_Switch,Connector_BarrelJack:BarrelJack_Horizontal,~
+R1,3.3k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R2,5k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R3,5k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R4,2.2k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R5,2.2k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R6,680,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R7,10,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R8,680,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R9,10,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R10,82k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R11,10k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R12,2.2k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R13,1k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+R14,10k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~
+RN1,10k,Resistor_THT:R_Array_SIP5,http://www.vishay.com/docs/31509/csc.pdf
+RV1,50k,Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical,~
+RV2,50k,Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical,~
+RV3,50k,Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical,~
+SW1,SW_SPDT,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~
+SW2,BOARD SW,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~
+SW3,ECHO SW,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~
+U1,74LS123,Package_DIP:DIP-16_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS123
+U2,74LS00,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74ls00
+U3,74LS37,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74ls00
+U4,MC6800,Package_DIP:DIP-40_W15.24mm_Socket,http://pdf.datasheetcatalog.com/datasheet/motorola/MC68A00L.pdf
+U5,74LS00,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74ls00
+U6,74LS00,Package_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74ls00
+U7,74LS138,Package_DIP:DIP-16_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS138
+U8,74LS245,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS245
+U9,MC14536B,Package_DIP:DIP-16_W7.62mm_Socket,
+U10,74LS244,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS244
+U11,74LS244,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS244
+U12,MC68A21,Package_DIP:DIP-40_W15.24mm_Socket,http://pdf.datasheetcatalog.com/datasheet/motorola/6821.pdf
+U13,28C256,Package_DIP:DIP-28_W15.24mm_Socket,http://ww1.microchip.com/downloads/en/DeviceDoc/doc0006.pdf
+U14,128k SRAM,Package_DIP:DIP-32_W15.24mm_Socket,http://www.futurlec.com/Datasheet/Memory/628128.pdf
+U15,PS-70N,PUSH_SW:SW_PUSH_PS-70N,
